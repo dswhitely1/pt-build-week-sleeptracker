@@ -1,8 +1,7 @@
 {
-  "name": "SleepTracker",
-  "version": "1.0.0",
-  "description": "This is the backend documentation for Sleep Tracker Build Week Project",
-  "title": "SleepTracker Back End",
-  "url" : "https://sleeptrack.herokuapp.com/",
-  "sampleUrl": "https://sleeptrack.herokuapp.com/"
+	"name": "SleepTracker",
+	"version": "1.0.0",
+	"description": "This is the backend documentation for Sleep Tracker Build Week Project",
+	"title": "SleepTracker Back End",
+	"url": "https://sleeptrack.herokuapp.com/"
 }
