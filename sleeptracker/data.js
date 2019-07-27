@@ -56,24 +56,8 @@
  *   "birthdate" : "1986-09-18"
  * }
  * 
- * @apiSuccessExample {Object} Response
- *{
- * "command": "INSERT",
- * "rowCount": 1,
- * "oid": 0,
- * "rows": [],
- * "fields": [],
- * "_parsers": [],
- * "_types": {
- *   "_types": {
- *     "arrayParser": {}
- *   },
- *   "text": {},
- *   "binary": {}
- * },
- * "RowCtor": null,
- * "rowAsArray": false
- *}
+ * @apiSuccessExample {Number} Response
+ * 24
  * 
  * @apiErrorExample {Object} Response
  * {
